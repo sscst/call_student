@@ -1,0 +1,204 @@
+.container .span10,
+.container.span4 {
+    min-height: 500px;
+ }
+
+html, body {
+    background: #eee;
+}
+
+
+#BigBox{
+    height: 650px;
+	background:rgb(211,211,212);
+}
+
+#SmallBox{
+    height:650px;
+    background:rgb(244,217,206) ;
+}
+
+#picture{
+    width:300px;
+    height:300px;
+}
+
+#top{
+    background: rgb(0,10,0);
+}
+
+#pbox{
+    position:absolute;
+    top:100px;
+    vertical-align:middle ;
+    text-align:center;
+}
+
+#next{
+    position:absolute;
+    top:400px;
+	margin-left:90px;
+	margin-top:60px;
+}
+
+.Smallphoto{
+    height:500ps;
+	width:600ps ;
+}
+#photo{
+    border:2px;
+    background:green;
+    height:500px;
+	margin-left:25px;
+	margin-top:60px;
+}
+
+
+#information{
+    background:pink;
+    height:500px;
+	margin-right:25px;
+	margin-top:60px;
+	background:rgb(255,239,204);
+}
+
+#mainblock{
+    left:100px;
+}
+
+#foot{
+    background:yellow;
+}
+
+#mark{
+    float:right;
+	color:white;
+	font-weight:800;
+}
+
+#people{
+    float:left;
+	color:white;
+	font-weight:800;
+}
+
+#move{
+   float:left;
+   margin-top:2.1px;
+}
+
+#cake1{
+    background:red;
+	border-color:red;
+}
+#cake2{
+    background:green;
+	border-color:green;
+}
+#cake3{
+    background:blue;
+	border-color:blue;
+}
+.font{
+   font-size:28px;
+   font-family:¡• È;
+   float:left;
+   border-style:solid;
+   height:25px;
+   padding-top:5px;
+   font-weight:bold;
+   color:white;
+}
+
+.information_box{
+   margin-right:15px;
+   margin-bottom:5px;
+   margin-top:10px;
+   width:200px;
+   height:50px;
+   float:right;
+   font-family: Georgia;
+   font-size:30px;
+   text-align:center;
+}
+
+.text_box{
+   font-size:50px;
+   text-align:center;
+   float:right;
+   width:200px;
+   float:right;
+   margin-right:23px;
+}
+
+.dark{
+   -webkit-border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    border-radius: 10px 10px 10px 10px;
+    -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.9);
+    -moz-box-shadow: 0 1px 2px rgba(0,0,0,.9);
+    box-shadow: 0 1px 2px rgba(0,0,0,.9);
+}
+
+#mainpage{
+    background:#f5f5f5;
+}
+
+#trouble{
+    background:rgb(0,20,0);
+	margin:50px;
+	width:200px;
+	height:200px;
+	
+}
+
+#trouble_button{
+    position:absolute;
+    top:200px;
+	margin-left:100px;
+	margin-top:60px;
+}
+
+#trouble_txt{
+    padding-top:10px;
+    float:left;
+    margin-top:15px;
+	margin-left:10px;
+	margin-right:10px;
+	color:green;
+	font-size:30px;
+	border-style:solid;
+	height:80px;
+	width:150px;
+	vertical-align:middle ;
+    text-align:center;
+	border-color:red;
+}
+
+#trouble_title{
+    padding-top:10px;
+    float:left;
+    margin-top:20px;
+	margin-left:10px;
+	margin-right:10px;
+	color:green;
+	font-size:30px;
+	border-style:solid;
+	height:40px;
+	width:150px;
+	vertical-align:middle ;
+    text-align:center;
+	border-color:red;
+}
+
+.info_box{
+    float:left;
+    margin-bottom:35px;
+    margin-top:35px;
+    margin-left:30px;
+	width:220px;
+	height:100px;
+	border-color:green;
+    border-style:solid;
+}
+
